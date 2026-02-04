@@ -1,0 +1,120 @@
+body {
+    background-color: rgb(242, 243, 248);
+    font-family: Arial, sans-serif;
+}
+header h1 {
+    color: #1877f2;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+header p {
+    color: rgb(0, 0, 0);
+    margin-top: 0px;
+}
+header {
+    margin-left: 80px;
+    height: auto;
+    width: 40%;
+    font-size: 30px;
+
+}
+.on {
+    border-radius: 7px;
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    flex-direction: column;
+    padding: 15px;
+    display: flex;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.login {
+    background-color: #1877f2;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+    align-items: center;     
+    justify-content: center;   
+    height: 600px;         
+    min-height: auto;     
+ }
+
+
+.create {
+    background-color: #00c200;
+    color: white;
+    font-weight: bold;
+    max-width: 200px;
+    margin-left: 75px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+footer {
+    background-color: white;
+    color: gray;
+    text-align: left;
+    max-width: 1000px;
+    margin-left: 150px;
+    font-size: 12px;
+}
+.on input {
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border-color: rgb(242, 243, 248);
+    font-size: 17px;
+}
+.on button {
+    height: 50px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 7px;
+    font-size: 15px;
+    border: 0px;
+    
+}
+.on hr {
+    width: 100%;
+    
+}
+.on a {
+    color: #1877f2;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.flex .blank .page {
+    text-align: center;
+    margin-left: 100px;
+    width: 350px;
+    font-size: 13px;
+}
+.last-block {
+    background-color: white;
+    width: 100%;
+    height: 200px;
+}
+.last-block .footer-language a {
+    text-decoration: none;
+    color: gray;
+    text-align: left;
+    margin: 4px;
+    font-size: 12px;
+}
+footer .meta {
+    margin-top: 7px;
+    font-size: 12px;
+    margin: 4px 0;
+    padding: 20px 0;
+    text-align: left;
+}
+.last-block .footer-link a {
+    text-align: left;
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+}
