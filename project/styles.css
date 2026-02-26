@@ -1,0 +1,23 @@
+*{
+    justify-content: center;
+}
+#num1{
+    border: 1px solid black;
+    padding: 10px;
+}
+#num2{
+    border: 1px solid black;
+    padding: 10px;
+}
+.opera{
+    padding: 10px;
+    margin: 20px;
+    background-color: green;
+}
+.opera:hover{
+    background-color: hotpink;
+}
+#result{
+    font-size: larger;
+    border: 1px solid black;
+}
